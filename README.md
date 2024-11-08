@@ -10,16 +10,16 @@ Convention:
 	Name Component: snake_Case
 		Ex : lb_Name, txt_Password
 ----------------------------------------------------------------------------------------------------
-List_Prefix_Component:
-	Form		:	frm
-	TextBox		:	txt
-	Button		:	btn
-	Label		:	lb
-	CheckBox	:	chk
-	PictureBox	:	pic
-	DataGridView	:	dgv
-	ListBox		:	lst
-	RadioButton	:	rdo
+	List_Prefix_Component:
+		Form		:	frm
+		TextBox		:	txt
+		Button		:	btn
+		Label		:	lb
+		CheckBox	:	chk
+		PictureBox	:	pic
+		DataGridView	:	dgv
+		ListBox		:	lst
+		RadioButton	:	rdo
 ====================================================================================================
 Commit : 
 ====================================================================================================
